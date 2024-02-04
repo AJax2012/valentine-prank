@@ -1,8 +1,3 @@
-# React + Vite
+# A Cute Valentine's Day Prank
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It's a cute valentine's day prank. Should at least get your significant other or crush to laugh a bit 😉 Visit (https://cute-valentine-prank.vercel.app/)[https://cute-valentine-prank.vercel.app/] and enjoy!
